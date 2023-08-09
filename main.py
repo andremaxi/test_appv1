@@ -12,7 +12,7 @@ RPC = {
         '56': 'https://bsc-dataseed.binance.org',
         '137': 'https://polygon-rpc.com',
         '42161': 'https://arb1.arbitrum.io/rpc', 
-        # '43114': '',  # https://support.avax.network/en/articles/4626956-how-do-i-set-up-metamask-on-avalanche
+        '43114': '',  # https://support.avax.network/en/articles/4626956-how-do-i-set-up-metamask-on-avalanche
     }
 
 gasLimit = 4000000
